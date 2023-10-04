@@ -8,3 +8,5 @@ Login Page:
 Main Page:
 ![Screen Shot 2023-09-28 at 5 15 08 PM](https://github.com/longleDevops/Car-Shop-Application/assets/137044122/3ad9df17-39f6-440e-9749-8e35d510a182)
 
+# Contributor:
+Long Le, Tu Ho, Thang Le, Jake Tran
